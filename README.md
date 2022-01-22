@@ -1,5 +1,10 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
+<p align="center">
+  <a href="http://mdshohed.me/">Website</a> •
+  <a href="https://www.linkedin.com/in/mdshohed/">Linkedin</a> •
+  <a href="https://github.com/mdshohed">Github</a>
+</p>
 <!--
 **mdshohed/mdshohed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
