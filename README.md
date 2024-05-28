@@ -24,11 +24,11 @@
 
 **Others:** Git, Docker, Linux, Vercel, Netlify  -->
 
-<h4 align="left">Languages: C++ | Java | Python | Typescript | Javascript | Solidity</h4>
-<h4 align="left">Frontend: NextJS | React | Redux | Laravel | Tailwind </h4>
-<h4 align="left">Backend: Express.js | Node.js | JWT | Firebase | Laravel-RestAPI</h4>
-<h4 align="left">Database: MongoDB | Mongoose | MySQL | PostgreSQL </h4>
-<h4 align="left">Others: Git | Docker | Linux | Vercel | Netlify</h4>
+<h4 align="left"><b>Languages:</b> C++ | Java | Python | Typescript | Javascript | Solidity</h4>
+<h4 align="left"><b>Frontend:</b> NextJS | React | Redux | Laravel | Tailwind </h4>
+<h4 align="left"><b>Backend:</b> Express.js | Node.js | JWT | Firebase | Laravel-RestAPI</h4>
+<h4 align="left"><b>Database:</b> MongoDB | Mongoose | MySQL | PostgreSQL </h4>
+<h4 align="left"><b>Others:</b> Git | Docker | Linux | Vercel | Netlify</h4>
 <!-- #### Testing: Jest  -->
 
 
