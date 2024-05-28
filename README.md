@@ -9,7 +9,7 @@
 </div>
 
 <h3 align="left">My Github Stats</h3>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=mdshohed&show_icons=true&count_private=true&theme=dark" alt="mdshohed" />
+<p align="left"> <img height="150"  src="https://github-readme-stats.vercel.app/api?username=mdshohed&show_icons=true&count_private=true&theme=dark" alt="mdshohed" />
 
 
 ## Tech Stack
@@ -48,9 +48,9 @@
 
 ### My GitHub Activities
 <div align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshohed&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshohed&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" />
   <!--  TOP LANGUAGES STATISTICS -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohed&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshohed&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats" alt="languages graph"  />
    
 </div>
 
