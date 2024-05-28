@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer | Competitive Programmer</h3>
 
 <div align="center">
-  <a href="https://mdshohed.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="mdshohed" height="25" width="100" /></a>
-  <a href="https://facebook.com/mdshohed170" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="mdshohed170" height="25" width="100" /></a>
-  <a href="https://linkedin.com/in/mdshohed" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="mdshohed170" height="25" width="100" /></a>
-  <a href="https://github.com/mdshohed" target="blank"><img align="center" src="https://img.shields.io/badge/Github-010101?style=for-the-badge&logo=github&logoColor=white" alt="mdshohed170" height="25" width="80" /></a>
+  <a href="https://mdshohed.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="mdshohed" height="25" width="100" /></a>
+  <a href="https://facebook.com/mdshohed170" target="_blank"><img align="center" src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="mdshohed170" height="25" width="100" /></a>
+  <a href="https://linkedin.com/in/mdshohed" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="mdshohed170" height="25" width="100" /></a>
+  <a href="https://github.com/mdshohed" target="_blank"><img align="center" src="https://img.shields.io/badge/Github-010101?style=for-the-badge&logo=github&logoColor=white" alt="mdshohed170" height="25" width="80" /></a>
 </div>
 
 <h3 align="left">My Github Stats</h3>
